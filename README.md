@@ -4,13 +4,16 @@ Make figures look a little nicer in MATLAB
 
 FUNCTION_NAME - Make figures look a little nicer in MATLAB
 
+(add this 'figuras_wilson' before the plot command)
 
-Syntax:   figuras_wilson
-
-           (add this 'figuras_wilson' before the plot command)
+Syntax:   
+          
+       figuras_wilson
 
 Example: 
-          x = -pi:0.01:pi;
+          
+          
+          x = -pi:0.01:pi;     
           figuras_wilson
           plot(x, sin(x))
           xlabel('Time $(s)$')
