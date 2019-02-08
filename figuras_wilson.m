@@ -1,6 +1,7 @@
-%FUNCTION_NAME - Make figures look a little nicer in MATLAB 
-% Syntax:   figuras_wilson 
-%           (add this 'figuras_wilson' before the plot command)
+function figuras_wilson()
+% Make figures look a little nicer in MATLAB 
+% Syntax:   figuras_wilson() 
+%           (add this 'figuras_wilson()' before the plot command)
 %
 % Example: 
 %           x = -pi:0.01:pi;
