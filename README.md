@@ -1,8 +1,12 @@
 # matlab_figures
 Make figures look a little nicer in MATLAB
 
-FUNCTION_NAME - Make figures look a little nicer in MATLAB 
-Syntax:   figuras_wilson 
+
+FUNCTION_NAME - Make figures look a little nicer in MATLAB
+
+
+Syntax:   figuras_wilson
+
            (add this 'figuras_wilson' before the plot command)
 
 Example: 
@@ -15,8 +19,11 @@ Example:
           box off
 
 Other m-files required: none
+
 Subfunctions: none
+
 MAT-files required: none
 
 Author: Wilson Rocha Lacerda Junior
+
 email: wilsonrljr@outlook.com
