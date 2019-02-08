@@ -2,7 +2,7 @@
 Make figures look a little nicer in MATLAB
 
 
-FUNCTION_NAME - Make figures look a little nicer in MATLAB
+FUNCTION_NAME - figuras_wilson
 
 (add 'figuras_wilson' before the plot command)
 
